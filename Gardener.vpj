@@ -1,0 +1,95 @@
+[COMPILER]
+INCLUDEDIRS=
+compile=concur|capture|:Compile:&Compile,javac %f
+make=:Build:&Build,javamake
+rebuild=concur|capture|:Rebuild:&Rebuild,
+debug=concur|capture|:Debug:&Debug,jdb %n
+execute=concur|capture|:Execute:E&xecute,java %n
+user1=hide|:User 1:User 1,
+user2=hide|:User 2:User 2,
+workingdir=
+includedirs=
+tagfiles=
+reffile=
+MACRO=\n
+FILTEREXPANSION=1 0 0 0 0
+[ASSOCIATION]
+[FILES]
+D:\Projects\PatternJava\Programs\AbstractFactory\AnnualGarden.java
+D:\Projects\PatternJava\Programs\AbstractFactory\checkCommand.java
+D:\Projects\PatternJava\Programs\AbstractFactory\Command.java
+D:\Projects\PatternJava\Programs\AbstractFactory\Garden.java
+D:\Projects\PatternJava\Programs\AbstractFactory\Gardener.java
+D:\Projects\PatternJava\Programs\AbstractFactory\PerennialGarden.java
+D:\Projects\PatternJava\Programs\AbstractFactory\Plant.java
+D:\Projects\PatternJava\Programs\AbstractFactory\VeggieGarden.java
+[STATE]
+SCREEN: 1280 1024 509 97 769 620 0 0 N 0 0 0 0 569 441
+CWD: D:\Projects\PatternJava\Programs\Singleton\staticSpool
+BUFFER: BN="c:\Program Files\vslick\readme.txt"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=1 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Fundamental	HM=0 MF=0
+VIEW: LN=.0 CL=1 LE=0 CX=0 CY=1 WI=5 BI=19 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\Garden.java"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=0
+VIEW: LN=.0 CL=1 LE=0 CX=0 CY=1 WI=5 BI=21 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\AnnualGarden.java"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=0
+VIEW: LN=.0 CL=1 LE=0 CX=0 CY=1 WI=5 BI=22 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\VeggieGarden.java"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=0
+VIEW: LN=.17 CL=18 LE=0 CX=17 CY=1 WI=5 BI=17 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\Plant.java"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=0
+VIEW: LN=.22 CL=1 LE=0 CX=0 CY=2 WI=5 BI=23 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\PerennialGarden.java"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=0
+VIEW: LN=.0 CL=1 LE=0 CX=0 CY=1 WI=5 BI=24 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\Command.java"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=0
+VIEW: LN=.0 CL=1 LE=0 CX=0 CY=1 WI=5 BI=4 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\checkCommand.java"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=0
+VIEW: LN=.309 CL=8 LE=0 CX=7 CY=12 WI=5 BI=25 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\Gardener.java"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=40
+VIEW: LN=.186 CL=26 LE=0 CX=25 CY=7 WI=5 BI=26 HT=0 HN=0 HF=0 HC=4
+WINDOW: 66 66 483 270 -1 -1 N  WF=0 WT=3 "OEM Fixed Font,10,0"
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\Garden.java"
+VIEW: LN=.0 CL=1 LE=0 CX=0 CY=1 WI=115 BI=21 HT=0 HN=0 HF=0 HC=4
+WINDOW: 110 110 483 270 -1 -1 N  WF=0 WT=5 "OEM Fixed Font,10,0"
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\AnnualGarden.java"
+VIEW: LN=.0 CL=1 LE=0 CX=0 CY=1 WI=114 BI=22 HT=0 HN=0 HF=0 HC=4
+WINDOW: 88 88 483 270 -1 -1 N  WF=0 WT=4 "OEM Fixed Font,10,0"
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\Plant.java"
+VIEW: LN=.22 CL=1 LE=0 CX=0 CY=2 WI=112 BI=23 HT=0 HN=0 HF=0 HC=4
+WINDOW: 22 22 483 270 -1 -1 N  WF=0 WT=7 "OEM Fixed Font,10,0"
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\PerennialGarden.java"
+VIEW: LN=.0 CL=1 LE=0 CX=0 CY=1 WI=111 BI=24 HT=0 HN=0 HF=0 HC=4
+WINDOW: 44 44 483 270 -1 -1 N  WF=0 WT=8 "OEM Fixed Font,10,0"
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\Command.java"
+VIEW: LN=.0 CL=1 LE=0 CX=0 CY=1 WI=116 BI=4 HT=0 HN=0 HF=0 HC=4
+WINDOW: 66 66 483 270 -1 -1 N  WF=0 WT=1 "OEM Fixed Font,10,0"
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\checkCommand.java"
+VIEW: LN=.309 CL=8 LE=0 CX=7 CY=12 WI=121 BI=25 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 630 316 -1 -1 N  WF=0 WT=2 "OEM Fixed Font,10,0"
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\Gardener.java"
+VIEW: LN=.0 CL=1 LE=0 CX=0 CY=1 WI=118 BI=26 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 483 270 -1 -1 N  WF=0 WT=6 "OEM Fixed Font,10,0"
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\VeggieGarden.java"
+VIEW: LN=.17 CL=18 LE=0 CX=17 CY=1 WI=113 BI=17 HT=0 HN=0 HF=0 HC=4
+WINDOW: 22 22 483 240 -1 -1 M  WF=0 WT=2 "OEM Fixed Font,10,0"
+BUFFER: BN="D:\Projects\PatternJava\Programs\AbstractFactory\Gardener.java"
+VIEW: LN=.186 CL=26 LE=0 CX=25 CY=7 WI=110 BI=26 HT=0 HN=0 HF=0 HC=4
+FILEHIST: 9
+D:\Projects\PatternJava\Programs\AbstractFactory\Garden.java
+D:\Projects\PatternJava\Programs\AbstractFactory\AnnualGarden.java
+D:\Projects\PatternJava\Programs\AbstractFactory\Plant.java
+D:\Projects\PatternJava\Programs\AbstractFactory\PerennialGarden.java
+D:\Projects\PatternJava\Programs\AbstractFactory\Command.java
+D:\Projects\PatternJava\Programs\AbstractFactory\checkCommand.java
+D:\Projects\PatternJava\Programs\AbstractFactory\VegieGarden.java
+D:\Projects\PatternJava\Programs\AbstractFactory\VeggieGarden.java
+D:\Projects\PatternJava\Programs\AbstractFactory\Gardener.java
+PRINTER: 2
+haw0flb 790 / H1-A06 IBM 4317,1,1,7,
+
